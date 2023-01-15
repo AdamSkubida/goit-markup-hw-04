@@ -329,3 +329,9 @@ body {
   margin: 0;
   line-height: 2;
 }
+
+/* icons styles */
+
+.contact-icon {
+  margin-right: 10px;
+}
